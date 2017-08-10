@@ -1,2 +1,0 @@
-# shanbeiBbs
-借助Bootstrap框架搭建的基于基本单词分享的学习型网站
