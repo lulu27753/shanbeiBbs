@@ -22,7 +22,7 @@ a:hover, a:focus { color: #209E85; }
 #logo {width: 123px; height: 62px; background:  url(../images/logo2.png) 0 0 no-repeat;}
 #page_head_right{float: right;}
 
-#main-login a {width: 54px; height: 40px; display: inline-block; }
+#main-login a {width: 54px; height: 34px; display: inline-block; }
 #main-login span{width: 32px; height: 32px; margin: 0 auto; display: block; line-height: 40px; text-align: center; color: #555; cursor: pointer;}
 .twi-btn-left {margin-right: -2px; background:  url(../images/icons.png) 0 -64px no-repeat;}
 .twi-btn-right { margin-left: -2px; background:  url(../images/icons.png) -54px -64px no-repeat;}
@@ -31,18 +31,19 @@ a:hover, a:focus { color: #209E85; }
 .twi-btn-left:hover{background:  url(../images/icons.png) 0 -144px no-repeat;}
 .twi-btn-right:hover{background:  url(../images/icons.png) -54px -104px no-repeat;}
 
-#main-menu{padding-top: 20px; position: relative; top: 30px; right: -100px; float: right; line-height: 40px; word-spacing: 20px;}
+#main-menu{padding-top: 7px; position: relative; top: 30px; right: -100px; float: right; line-height: 40px; word-spacing: 20px;}
 #main-menu a{font-size:16px; color: #666;}
 #main-menu a:hover{color: #19896b; text-decoration: none;}
 	/* page_head End*/
 
 	/* carousel_box */
-#carousel_box{height: 770px;}
+#carousel_box{height: 700px; margin-top: 78px;}
 .carousel-indicators{top: 530px; left: 400px;}
 .carousel-indicators li{background: #D4D5D6;}
 .carousel-indicators .active{background: #209e85;}
 .carousel-inner{overflow: visible;}
 .carousel-caption{top: 580px; background: #E4E4E4;}
+.carousel-caption h2 a{display: inline-block; font-size: 12px; text-indent: 16px;}
 .carousel-caption h4, .carousel-caption p{line-height: 20px; color: #333;}
 .carousel-caption .row a{line-height: 20px; font-size: 14px}
 
