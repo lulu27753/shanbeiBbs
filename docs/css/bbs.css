@@ -18,6 +18,7 @@ a:hover, a:focus { color: #209E85; }
 .btn-success { background-color: #56A590; }
 
 /* bbs.html */
+	/* page_head */
 #logo {width: 123px; height: 62px; background:  url(../images/logo2.png) 0 0 no-repeat;}
 #page_head_right{float: right;}
 
@@ -33,4 +34,19 @@ a:hover, a:focus { color: #209E85; }
 #main-menu{padding-top: 20px; position: relative; top: 30px; right: -100px; float: right; line-height: 40px; word-spacing: 20px;}
 #main-menu a{font-size:16px; color: #666;}
 #main-menu a:hover{color: #19896b; text-decoration: none;}
+	/* page_head End*/
+
+	/* carousel_box */
+#carousel_box{height: 770px;}
+.carousel-indicators{top: 530px; left: 400px;}
+.carousel-indicators li{background: #D4D5D6;}
+.carousel-indicators .active{background: #209e85;}
+.carousel-inner{overflow: visible;}
+.carousel-caption{top: 580px; background: #E4E4E4;}
+.carousel-caption h4, .carousel-caption p{line-height: 20px; color: #333;}
+.carousel-caption .row a{line-height: 20px; font-size: 14px}
+
+
+
+	/* carousel_box End */
 /* bbs.html End*/
