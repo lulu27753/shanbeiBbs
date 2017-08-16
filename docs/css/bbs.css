@@ -58,7 +58,7 @@ a:hover, a:focus { color: #209E85; }
 
 #menu ul{width: 100%; margin: 0px auto; padding: 6px 0;background: #E4E4E4;}
 .navbar{margin-bottom: 0;}
-#menu .affix{top:0; left: 290px;}
+/* #menu .affix{top:0; left: 290px;} */
 
 
 .main-body{background: #f9f9f9; padding: 20px 0;}
