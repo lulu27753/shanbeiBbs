@@ -51,3 +51,9 @@ a:hover, a:focus { color: #209E85; }
 
 	/* carousel_box End */
 /* bbs.html End*/
+
+/* read.html */
+.nav-collapse{position: absolute; top: 32px; left: 250px;}
+#menu{margin: 6px auto;}
+.navbar{margin-bottom: 0;}
+/* read.html End*/
