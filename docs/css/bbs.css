@@ -53,7 +53,31 @@ a:hover, a:focus { color: #209E85; }
 /* bbs.html End*/
 
 /* read.html */
-.nav-collapse{position: absolute; top: 32px; left: 250px;}
-#menu{margin: 6px auto;}
+	/* main-body */
+.nav-collapse{position: absolute; top: 32px; left: 450px;}
+
+#menu ul{width: 100%; margin: 0px auto; padding: 6px 0;background: #E4E4E4;}
 .navbar{margin-bottom: 0;}
+#menu .affix{top:0; left: 290px;}
+
+
+.main-body{background: #f9f9f9; padding: 20px 0;}
+.page-header{margin: 18px 20px; border-bottom: 1px solid #bbb;}
+.articles .thumnail{padding-left: 20px;}
+.articles .title{line-height: 32px; color: #56A590; font-size: 18px;}
+.articles a:hover{color: #56A5aa ;text-decoration: none;}
+.articles .info{line-height: 24px; color: #333; font-size: 16px;}
+.articles .summary{line-height: 24px; font-size: 16px;}
+
+	/* main-body end*/
+
+	/* sider-section */
+.sider-section p{line-height: 16px; font-size: 14px; }
+.sider-section .app-img{margin-left: 50px;}
+.sider-section .app-text{margin-left: 10px;}
+
+.sider-section .sources img{margin-left: 20px; text-align: center;}
+.sider-section .sources a{font-size: 22px; line-height: 50px;}
+
+	/* sider-section end*/
 /* read.html End*/
