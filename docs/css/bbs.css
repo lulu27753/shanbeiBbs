@@ -6,6 +6,7 @@ body {
     line-height: 18px;
     color: #333333;
     background-color: #E4E4E4;
+ 
 }
 hr {
     margin: 18px 0;
@@ -16,7 +17,7 @@ hr {
 a { color: #56A590; }
 a:hover, a:focus { color: #209E85; }
 .btn-success { background-color: #56A590; }
-
+li{list-style: none;}
 /* bbs.html */
 	/* page_head */
 #logo {width: 123px; height: 62px; background:  url(../images/logo2.png) 0 0 no-repeat;}
@@ -111,4 +112,10 @@ a:hover, a:focus { color: #209E85; }
 .media-body h5{margin-bottom: 0; color: #209E85;}
 .media2 p{line-height: 18px; margin-top:0;}
 /* sider2 end */
+
+
 /* team.html End*/
+.row_card{margin-top: 20px; border-bottom: 1px solid #ddd; padding-bottom: 10px;}
+.info3 a{line-height: 18px;}
+.text{margin-left: 0;}
+/* top.html End*/
