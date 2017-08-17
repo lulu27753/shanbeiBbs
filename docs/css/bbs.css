@@ -6,7 +6,7 @@ body {
     line-height: 18px;
     color: #333333;
     background-color: #E4E4E4;
- 
+
 }
 hr {
     margin: 18px 0;
@@ -119,3 +119,5 @@ li{list-style: none;}
 .info3 a{line-height: 18px;}
 .text{margin-left: 0;}
 /* top.html End*/
+
+/* .nav_bar{position: fixed;} */
