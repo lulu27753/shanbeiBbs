@@ -81,3 +81,34 @@ a:hover, a:focus { color: #209E85; }
 
 	/* sider-section end*/
 /* read.html End*/
+
+/* team.html */
+.main{}
+.header_top{padding: 40px;margin-left: 20px;  background: #eee url(../images/team2.png) right -20px no-repeat;text-align: center;}
+.header_top small{display: block; font-style: 16px; margin-top: 1em;}
+.main h4{margin-left: 20px; color: #209E85;}
+.page-header strong{font-size: 20px;}
+.info2 a{margin-right: 10px;}
+
+
+.content{padding-left: 20px; }
+.media-body{width: 60%; padding-left: 20px;}
+.media-body .hint{word-spacing: 30px;}
+.hint b{color: #49AF9B;}
+.btn_join{float: right; position: relative;  top: -80px; right: 80px;}
+.page_toggle{padding-left: 20px;}
+
+/* sider2 */
+.sider-section2{padding: 0px 10px;}
+.sider_search{}
+.sider_search .search-query{-webkit-border-radius: 0;-moz-border-radius: 0;border-radius: 0;
+}
+.sider-section2 p{margin-top: 15px;}
+.tags{line-height: 4em;}
+
+.media2 img{margin: 10px;}
+.media2 .media-body{width: 100%;padding-left: 0;}
+.media-body h5{margin-bottom: 0; color: #209E85;}
+.media2 p{line-height: 18px; margin-top:0;}
+/* sider2 end */
+/* team.html End*/
